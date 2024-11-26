@@ -1,0 +1,378 @@
+Species,Count,Date,Time_start,Time end,Pack,IDs,Photos,Latitude,Longitude,Location,Behaviour,Description,Observer,Record_type,SEX,AGE
+Dingo,1,17-03-2019,9:31,,FS,Unknown,,-32.3985,152.4739,Lake,Walking,Uniformly tanned dog,,Researcher,U,A
+Dingo,1,9-06-2019,,,SL,SLF1501,,-32.608184,152.230277,Campground,Walking,,,Researcher,F,A
+Dingo,3,16-07-2019,,,MB,MBF1401 MBF1701 MBM1501,,-32.509156,152.317336,Offroad ,Walking,,,Researcher,V,A
+Dingo,1,11-09-2019,,,FS,UOM1602,,-32.3985,152.4739,,Walking,dark coloured snout,,Researcher,M,A
+Dingo,4,24-09-2019,11:02,,SL,SLF1501 SLF1901 SLM1902 Unknown,,-32.595825,152.255073,Roadside,Resting,"With three pups at construction site, Mungo brush road relocation",BA/CP,Researcher,F,A
+Dingo,1,29-10-2019,,,MB,MBF1701,,-32.5092,152.3173,Campground,Walking,,,Researcher,F,A
+Dingo,2,30-10-2019,6:58,7:10,NA,Unknown,,,,Campground,,sniffing around camp site. One tent present. Body condition 2. Skinny.,NJ/BA/CP/MC,Researcher,F,A
+Dingo,4,30-10-2019,13:45,,UNK,Unknown,,-32.400577,152.475785,Road,Walking,Trotting along road behind smiths lake,NP,Researcher,M,A
+Dingo,2,30-10-2019,13:50,,UNK,Unknown,,-32.538788,152.31711,Campground,,Dees corner,NP,Researcher,F,A
+Dingo,3,31-10-2019,5:50,6:05,MB,MBF1701,,-32.541536,152.31285,Road,Running,Running from vehicle near palm forest. Made way to Mungo Brush bins (trapped their shortly after),NJ/BA/MC,Researcher,F,A
+Dingo,3,31-10-2019,8:30,10:00,MB,MBF1701,,-32.545763,152.308047,Trap,Trapped,Collared and released,NJ/BA/CP/MC,Researcher,F,A
+Dingo,3,31-10-2019,18:40,19:10,MB,MBF1601,,-32.538788,152.31711,Campground,Scavenging,Foraging around campsite- Dees corner. Set up traps and she triggered small one and escaped.,NJ/BA/CP/MC,Researcher,F,A
+Dingo,1,31-10-2019,,,MB,MBF1601,,,,,resting,,,Researcher,F,A
+Dingo,1,31-10-2019,,,MB,MBF1702,,-32.527179,152.322189,Campground,Sedated ,Collared and released,,Researcher,F,A
+Dingo,1,1-11-2019,,,MB,MBF1702,,-32.538947,152.314958,Campground,Walking ,,,Researcher,F,A
+Dingo,1,29-11-2019,,,UNK,Unknown,,,,National Park,Walking ,,,Researcher,F,
+Dingo,2,1-12-2019,,,MB,MBM1501 MBM1901,,,,Roadside,Walking ,,,Researcher,M,A
+Dingo,1,3-12-2019,,,MB,MBF1702,,,,Campground,,,,Researcher,F,A
+Dingo,1,3-12-2019,,,PC,PCM1601 ,,-32.628871,152.203691,,Sedated ,Collared,,Researcher,M,A
+Dingo,1,3-12-2019,,,WT,WTF1501,,-32.657278,152.184186,,Sedated ,Collared ,,Researcher,F,A
+Dingo,2,3-12-2019,,,SL,SLF1901 SLM1902,,-32.607702,152.23228,,Resting ,,,Researcher,V,A
+Dingo,1,4-12-2019,12:27,,UNK,,,-32.659477,152.180452,Sewage Work,Walking ,May be apart of WT or SL pack,,Researcher,M,A
+Dingo,2,4-12-2019,,,SL,SLF1501 1pup,,,,Roadside,Walking ,,,Researcher,V,A
+Dingo,3,4-12-2019,,,SL,SLF1901 SLM1902 SLF1501,,,,Roadside,Walking ,,,Researcher,V,A
+Dingo,1,5-12-2019,14:38,,FS,FSM1401,,,,Roadside,Walking ,,,Researcher,M,A
+Dingo ,7,7-01-2020,,,SL,SLF1501 SLM1902 SLF2001 SLF2003 Unknown Unknown Unknown,,-32.607702,152.23228,Campground,Scavenging,Couldn't identify last 3 individuals,,Researcher,V,V
+Dingo,1,3-02-2020,,,MB,MBF1702,,,,Lake,Walking,,,Researcher,F,A
+Dingo,1,21-02-2020,,,,,,,,Mungo Brush Road,Walking,May be SLF1901,,Researcher,,
+Dingo,2,21-02-2020,,,SL,PCM1601 SLM1901,,,,Offroad ,Resting ,,,Researcher,M,A
+Dingo,1,4-03-2020,,,SL,SLM1901,,,,Roadside,Resting ,,,Researcher,M,A
+Dingo,1,4-03-2020,,,MB,MBM1901,,-32.519791,152.323349,White Tree Bay,Sniffing,Sniffing and walking aroud,NJ/BP,Researcher,M,A
+Dingo,2,4-03-2020,,,,Unknown,,-32.521769,152.265358,Near Mungo Brush,Walking ,Male may be WTM1502 and collared female,NJ,Researcher,V,
+Dingo,1,5-03-2020,12:13,,,Unknown,,-32.525529,152.320624,Wells Cameratrap ,Walking ,May be apart of MB pack,NJ,Researcher,,
+Dingo,1,5-03-2020,,,MB,UOM1701,,-32.521769,152.265358,Near Mungo Brush,Walking ,,NJ,Researcher,M,A
+Dingo ,1,6-03-2020,,,MB,MBF1701,,-32.509151,152.317336,Near Boomeri,Resting ,wearing a collar ,NJ,Researcher,F,A
+Dingo ,1,6-03-2020,,,MBF1702,Unknown,,-32.525529,152.320624,The Wells  ,Resting ,weaing a collar ,NJ,Researcher,,
+Dingo ,3,19-03-2020,,,,Unknown,,-32.549751,152.30524,Banksia Green ,Growling ,grey dog and maybe MBM1901 UNM1701,NJ,Researcher,,A
+Dingo ,2,26-04-2020,,,SL,PCM1601 SLF1501,,,,,Resting ,,NJ,Researcher,V,A
+Dingo,5,29-04-2020,17:30,18:01,SL,SLF1501 PCM1601 Unknown Unknown Unkown,Y,-32.560506,152.29984,Hole in wall,Hunting,Found at Hole in wall. Piper sniffed and RLU on pole. Pack went to beach and foraged in intertidal zone. Socks dug ~30cm deep hole there. Not seen eating anything from it. Yearling F did sq shit in the hole. Climbed back up to Hole in Wall carpark from beach and headed along road to south. Lost at 17:53. Picked up dgain at 17:58 and lost at 18:01 heading down to beach again. ,NJ/BV/MC,Researcher,V,V
+Dingo ,2,30-04-2020,,,WT,WTF1501 WTF1502,,-32.662768,152.179348,Golf Course ,Walking/running ,,NJ,Researcher,F,A
+Dingo ,1,7-05-2020,,,SL,PCM1601,,-32.628524,152.204451,Near Lemon Tree ,Walking ,,NJ,Researcher,M,A
+Dingo ,2,10-05-2020,,,,Unknown,,,,Offroad ,Walking,,NJ,Researcher,V,A
+Dingo ,1,13-05-2020,,,SL,SLF1901,,-32.626159,152.211644,Near lemon Tree ,Walking ,,NJ,Researcher,F,A
+Dingo ,4,15-05-2020,,,MB,MBM1501 MBF1401 MBM1901 Unknown,,,,Offroad ,Walking ,,NP,Researcher,V,A
+Dingo ,2,16-05-2020,,,WT,WTF1501 WTM1502,,-32.644382,152.186187,1.5m north of Sewage Plant,Walking,,NJ,Researcher,F,A
+Dingo ,1,25-05-2020,,,,,,,,Drive way ,Walking ,May be UOM2001,,Researcher,,
+Dingo ,1,29-05-2020,,,SL,PCM1601,,,,Sand dunes ,Walking ,Wearing a collar may be PCM1601,NP,Researcher,M,A
+Dingo ,1,29-05-2020,,,,,No picture ,-32.669068,152.052,IGA ,,May be SLF1901,NP,Researcher,F,A
+Dingo ,1,30-05-2020,,,,,,,,,,Near Mungo Brush maybe SLF1901 no picture provided ,NP,Researcher,F,A
+Dingo ,1,11-06-2020,,,,,,-32.673725,152.184504,,Resting ,Near surf club maybe SLF1901,NP,Researcher,F,A
+Dingo ,1,18-06-2020,,,MB,MBM1901,,-32.549751,152.30524,Banksia Green ,Walking,,NJ,Researcher,M,A
+Dingo ,5,18-06-2020,,,WT,WTF1501 Unknown Unknown Unknown Unknown,,-32.660965,152.182053,At den,,WTF1501 is collared. 4 pups,NJ,Researcher,V,V
+Dingo ,1,3-09-2020,,,SL,SLF1501,,-32.680382,152.179584,SL Campgrounds ,Standing ,,CB,Researcher,F,A
+Dingo ,1,3-09-2020,,,MB,MBF1401 ,No picture ,-32.680382,152.179584,Wells Campground ,Wary,Keeping its distance has a limp in front right leg and teats are full ,CB,Researcher,F,A
+Dingo,7,10-10-2020,,,SL,PCM1601 SLF1501 SLM1901 Unknown Unknown Unknown Unknown,,-32.607702,152.23228,Campground,Scavenging,"Raiding campsite. Opening Esky to drink ice. 2 pups were female, other 2 not determined. Collar looks good, moving freely etc. ",NJ,Researcher,V,V
+Dingo,3,18-10-2020,,,SL,SLF2003 Unknown Unknown,,-32.607702,152.23228,,Resting ,Other pups may be SLF2001 SLF2002,,Researcher,F,J
+Dingo ,1,19-10-2020,,,,UOM1701,,,,At depot,Urinating,,,Researcher,M,A
+Dingo ,4,23-10-2020,,,SL,SLF1901 SLF1501 ,,-32.607702,152.23228,,Walking and resting ,pups may be SLF2001 and SLF2002,BP,Researcher,F,V
+Dingo ,4,23-10-2020,,,SL,SLF1501 SLF1901 SLF2001 SLF2002 ,,-32.607702,152.23228,,Walking and resting ,,,Researcher,F,V
+Dingo ,1,15-11-2020,,,,,,,,Beach,Standing ,Standing close to a person may be SLM1902,NP,Researcher,,
+Dingo ,1,15-11-2020,,,SL,PCM1601,,,,Beach,Walking ,Wearing a collar may be PCM1601,NP,Researcher,M,A
+Dingo ,2,17-11-2020,,,SL,SLF2002,,,,,,May be SLF2001,,Researcher,,
+Dingo ,1,18-11-2020,,,SL,SLF1901,,,,Roadside,Resting ,,,Researcher,F,A
+Dingo ,1,18-11-2020,,,SL,SLF1501 ,,,,,Resting ,,,Researcher,F,A
+Dingo ,1,19-11-2020,,,SL,SLF1901,,,,Roadside,resting ,,,Researcher,F,A
+Dingo ,2,20-11-2020,,,SL,UOF2001 UOM1701,,-32.546379,152.26105,Angophora Picnic Area,Resting ,,,Researcher,V,V
+Dingo ,1,13-12-2020,,,SL,SLF1901,,-32.617901,152.217386,Main Road between SL and Pipers,Walking,,,Researcher,F,A
+Dingo ,1,16-12-2020,,,SL,SLM1902 PCM1601 Unknown Unknown Unknown,,,,,walking,With 3 female pups,,Researcher,V,V
+Dingo ,1,16-12-2020,,,SL,SLF1501,,-32.521769,152.265358,Mungo Brush Road,Walking,,,Researcher,F,A
+Dingo ,2,16-12-2020,,,,UOF1801 MBM2001,,-32.538648,152.314349,Dees Corner,Walking and resting ,,,Researcher,V,V
+Dingo ,6,20-12-2020,,,,Unknown,,,,Sand dunes ,Chasing a man ,Dark coloured dingoes,NP,Researcher,,
+Dingo ,4,7-01-2021,20:30,20:32,,Unknown,No picture ,-32.681087,152.180024,Jimmy's Beach caravan park enterance ,Barking growling fangs out ,Dingoes behaving aggressively towards 2 pet dogs and the two owners,,Researcher,,
+Dingo ,1,7-01-2021,,,,Unknown,,,,Sand dune ,Walking ,May be from SL pack may be SLM1902,NP,Researcher,M,A
+Dingo ,1,15-01-2021,,,MB,MBF1701,,,,Mining Road,Walking,,BA,Researcher,F,A
+Dingo ,2,21-01-2021,21:11,,,UOM1701 MBF2002,,-32.486103,152.34646,Gibber Track,,caught on camera trap,BA,Researcher,V,V
+Dingo ,3,21-01-2021,21:27,,,UOM1701 MBF2002 MBF2003,,-32.486103,152.34646,Gibber Track,Walking ,caught on camera trap,BA,Researcher,F,V
+Dingo ,1,1-02-2021,,,,UOF1801,,-32.486103,152.34646,Gibber Track,Walking,,BA,Researcher,F,A
+Dingo ,1,3-02-2021,20:42,,,UOF2005,,-32.438582,152.430385,One Horse Sands intersection ,,caught on camera trap,BA,Researcher,F,J
+Dingo,1,3-02-2021,23:39,,,UOM2001,,-32.486103,152.34646,Gibber Track,Sniffing ,caught on camera trap,BA,Researcher,M,J
+Dingo,1,8-02-2021,,,MB,MBF2002,,-32.486103,152.34646,Gibber track,,,BA,Researcher,F,J
+Dingo,1,22-02-2021,,,MB,MBF2001,,-32.521769,152.265358,Mungo Brush,Standing,,BA,Researcher,F,J
+Dingo,1,22-02-2021,,,SL,SLF2001,,,,Road,Walking,,NJ,Researcher,F,J
+Dingo,2,22-02-2021,,,,UOM1702 UOF1703,,-32.679811,152.170654,Jimmys Beach,Resting,,NJ,Researcher,V,A
+Dingo,1,2-03-2021,,,,UOF1802 ,,-32.679811,152.170654,Jimmys Beach,Dead,Controlled Dingoes,NJ,Researcher,F,A
+Dingo,2,5-03-2021,,,,UOM1803 UOM1601,,-32.679811,152.170654,Jimmys Beach,Dead,Controlled Dingoes,NJ,Researcher,M,A
+Dingo,1,6-03-2021,,,,UOM1804,,-32.679811,152.170654,Jimmys Beach,Dead,Controlled Dingoes,NJ,Researcher,M,A
+Dingo,1,7-03-2021,,,,UOF1805,,-32.679811,152.170654,Jimmys Beach,Dead,Controlled Dingoes,NJ,Researcher,F,A
+Dingo,1,8-03-2021,,,SL,SLF1901,,-32.521769,152.265358,Mungo Brush Road,Resting,,NJ,Researcher,F,A
+Dingo,1,8-03-2021,,,MB,UOM2002,,-32.503059,152.304883,Camp Bombah,,Red dog,NJ,Researcher,M,J
+Dingo,5,10-03-2021,,,MB,UOF1801 UOM1701 UOM2002 UOM2001 UOF2003,,-32.509151,152.317336,Near Boomeri,Walking,,NJ,Researcher,V,V
+Dingo,4,10-03-2021,,,MB,UOM1701 UOM2002 UOM2001 UOF1801,,-32.503059,152.304883,Camp Bombah,Walking,,NJ,Researcher,V,V
+Dingo,6,11-03-2021,,,SL,SLF2001 SLF1501 PCM1601 SLF2003 SLM1902 SLF2005,,-32.598477,152.264739,Sand dunes,Resting,At Dark Point ,CB,Researcher,V,V
+Dingo,1,18-04-2021,,,,,,-32.557431,152.284673,Mungo Trail,Foraging,Might be SLF1901 Thin and had nasal discharge,CB,Researcher,F,A
+Dingo,1,20-04-2021,14:46,,,,,-32.504449,152.164545,Bombah Point Ferry,Walking ,Might be UOM1701 Looks underweight ,NP,Researcher,M,
+Dingo,3,22-04-2021,21:16,,,UOM1707 UOF1703 UOF1501,Y,-32.661561,152.182875,Shitworks Trap,,Walking around trap and digging beneath it,,Researcher,MFF,A
+Dingo,3,25-04-2021,13:46,13:54,MB,UOF1801 UOM1701 UOM2001,Y,-32.5162,152.3232,Corner Hawks Nest-Seal rocks road and Mungo brush road ,Begging,,BA/FP,Researcher,MMF,A 
+Dingo,1,25-04-2021,14:26,,SL,SLF1901,Y,-32.630522,152.201642,Beside MB road.,Standing,Basically road-side begging,NJ/BP,Researcher,F,A
+Dingo,3,25-04-2021,17:50,18:00,MB,UOF1801 UOM1701 UOM2001,Y,-32.5437,152.3103,Mungo Brush Campground,Begging,,BA/FP,Researcher,MMF,AAA
+Dingo,2,25-04-2021,18:00,18:15,UNKNOWN,UOM1707,Y,-32.656083,152.181675,MB road near town,,Moving together towards town and marking. Female may be WTF1501,NJ,Researcher,MF,V
+Dingo,3,25-04-2021,,,SL,SLF1501 SLF2002 PCM1601,Y,-32.560818,152.300655,Near Hole in the Wall ,Walking,,,Researcher,FFM,A
+Dingo,1,26-04-2021,8:50,9:00,MB,UOM2001,Y,-32.5091,152.319,Boomeri,,Very skinny,NJ/BP,Researcher,M,Y
+Dingo,1,26-04-2021,13:00,13:15,SL,SLF1901,Y,-32.63297,152.196338,MB road,,Seen by Bobby-Jo and Michelle Campbell. ,BV/MC,Researcher,F,A
+Dingo,1,26-04-2021,23:55,0:00,MB,UOM2001,N,-32.509203,152.320196,Boomeri,Skulking around camp,Skulking around camp,ALL,Researcher,M,Y
+Dingo,1,26-04-2021,,,MB,UOM2001,N,-32.503059,152.304883,Bombah depot,Checking trap,Coming in to check trap.,ALL,Researcher,M,Y
+Dingo,1,27-04-2021,11:40,,MB,UOM2001,N,-32.509203,152.320196,Boomeri,Skulking around camp,Skulking around camp,ALL,Researcher,M,Y
+Dingo,1,27-04-2021,20:25,,MB,UOM2002,N,,,,Running,Running along road,NJ/BV,Researcher,M,A
+Dingo,2,27-04-2021,20:30,,MB,UOF1801 UOM1701,N,-32.526677,152.322863,White Tree Bay,Running,Running along road,NJ/BV,Researcher,FM,A
+Dingo,3,27-04-2021,22:20,13:00,MB,UOM2001 UOF2003 UOF1801,Y,-32.509203,152.320196,Boomeri,Chasing,Bombah raiuded bin. UOF2003 chased off by UOM2001. Ben P has pictures. ,NJ/BP,Researcher,MFF,V
+Dingo,2,27-04-2021,,,MB,UOM2001 UOM2002,Y,-32.503059,152.304883,Bombah depot,a,Trapped and collered UOM2002 (Red dog),ALL,Researcher,M,Y
+Dingo,1,28-04-2021,0:17,0:17,,Unknown,,-32.516232,152.32313,Dingo2corner,Running,Unknown id riunning away from car.,NJ/BV,Researcher,,
+Dingo,1,28-04-2021,10:19,10:22,MB,UOM2001,Y,-32.5029,152.3059,Bombah Point Depot,Resting,,BA/FP,Researcher,M,Y
+Dingo,2,28-04-2021,12:20,12:42,MB,UOM1701 UOF1801,Y,-32.5091,152.319,Boomeri Campground,"Sniffing for food, calm. Bombah boy overmarks all of red dogs marks from earlier in the day on various trees and shrubs",,BA,Researcher,MF,A
+Dingo,1,28-04-2021,13:10,13:20,SL,SLF1901,Y,-32.6581,152.181,Water Treatment,Begging at car,,BA/FP,Researcher,F,A
+Dingo,1,28-04-2021,16:12,16:25,MB,UOM2001,Y,-32.5091,152.319,Boomeri Campground,Begging/Sniffing for food at camp,Marked on spot where Bombah boy marked earlier,BA/FP,Researcher,M,A
+Dingo,2,28-04-2021,18:05,19:00,MB,UOM1701 UOF1801,Y,-32.5091,152.319,Boomeri Campground,Sleeping,,BA,Researcher,MF,A
+Dingo,3,29-04-2021,19:20,19:25,SL,SLF1501,Y,-32.5917,152.2722,Mungo Brush road,Begging at car/running down road,"Socks and two pups, unclear photos (at night)",,Researcher,,
+Dingo,1,29-04-2021,19:32,19:33,MB,UOM2002,N,-32.509203,152.320196,Boomeri,Walking,Walking through camp.,NJ,Researcher,,
+Dingo,1,30-04-2021,6:59,6:59,,Unknown,N,,,200m N or SW,Running from car,Unknown id riunning away from car.,NJ/BA,Researcher,,
+Dingo,1,13-05-2021,9:11,9:15,MB,UOM2001,Y,-32.550086,152.308627,Dune beside track at back of Banksia Green CS.,Walking,Walking in to camp. Much better condition than 2 weeks ago. Less ribby. Signal for UOM2002 (Red Dog) and Bombah Boy close by. ,NJ,Researcher,M,A
+Dingo,1,13-05-2021,10:55,11:15,SL,SLF1901,Y,-32.637543,152.191337,"300m N of Myall River camp on road, walking south",,Walking on road south towards town. Good condition,NJ,Researcher,F,A
+Dingo,1,13-05-2021,11:20,11:40,WT,WTF1501,Y,-32.661922,152.171333,End of Albatross on green.,Walking/Foraging,"Foraging shore line. Emerged from woodland to south, trotting. Worked shoreline and park before going into woodland at north. Wary. Swollen vulva.",NJ,Researcher,F,A
+Dingo,1,13-05-2021,12:30,12:35,SL,SLF1901,N,-32.657808,152.181137,100m N SW entry. ,Walking/begging,Walking on road and interacting with cars.,NJ/BP,Researcher,F,A
+Dingo,,13-05-2021,13:00,13:20,JB,UOF1501,N,-32.666589,152.18493,Back of golf club close to trail toSW. ,Unknown,Downloaded collar. Dingo not seen.,NJ/BP,Researcher,F,A
+Dingo,4,13-05-2021,13:45,14:27,MB,UOM1701 UOM2002 UOM2001 UOF1801,Y,-32.54938,152.307949,Banksia Green,Skulking/resting,Resting and skulting around caravans in campsite. Both collars downloaded.,NJ/BP,Researcher,MMMF,AAAA
+Dingo,1,13-05-2021,14:45,14:55,SL,SLF2001,Y,-32.560818,152.300655,Hole in Wall,Skulking,Checking out picnic table each time a group left. Very bulky female in really good condition - a little overweight if anything. (NOTE- was actually preg at this point!),NJ/BP,Researcher,F,A
+Dingo,1,13-05-2021,15:30,15:32,SL,UOM2004 SLF2003,Y,-32.607743,152.232478,Stewardt and Lloyds,Walking,Downloaded. Consort male is beautiful but very shy and slinky. SLF2003 has slightly swollen vulva. She defecated in squat posyiure at back end of camp.,NJ/BP,Researcher,FM,AA
+Dingo,1,18-05-2021,,,WT,WTF1501,Y,-32.641926,152.148941,Edge of Hawks Nest ,Walking,,,Researcher,F,A
+Dingo,1,24-05-2021,,,UNK,UOP2006,Y,-32.641926,152.148941,Edge of Hawks Nest,Dead,,NJ,Researcher,UNK,A
+Dingo,1,8-09-2021,17:03,17:05,SL,SLF2002,Y,-32.602945,152.236649,Just past Stewart and Lloyds,Trotting with purpose,"Looked like she was pregnant, nips out, ran into bushes",BA,Researcher,F,A
+Dingo,2,8-09-2021,17:40,17:55,MB,UOM1701 UOM2002,N,-32.525115,152.322834,Wells Campground,Walking,"Bombah Boy appeared to be running after red dog- they may have been running together hunting something, ",BA,Researcher,MM,AA
+Dingo,1,9-09-2021,8:35,8:40,MB,UOM2002,Y,-32.527727,152.322749,White Tree Bay Campground,Walking North,"Dingo howling to the north, red dog runs northwards. ",BA,Researcher,M,A
+Dingo,4,9-09-2021,13:35,13:45,JB,Unknown,N,-32.680936,152.181294,Bushland off Jimmys beach,Walking,"Tracked to den- did not see Michelle the mother, but did see 4 pups. All with similar markings, dark face, white socks",BA,Researcher,UUUU,PPPP
+Dingo,1,9-09-2021,13:58,14:02,None,SLF1901,Y,-32.659097,152.180671,Road at Water Treatment ,,Begging for food at the car,BA,Researcher,F,A
+Dingo,1,9-09-2021,16:37,16:43,SL,SLF2003,N,-32.560833,152.299477,"Mungo BrushRoad, near Hole in the Wall",Walking,Ducks into bushes when car approaches. Collar download.,BA,Researcher,F,A
+Dingo,1,9-09-2021,17:50,18:00,MB,UOM2002,N,-32.505942,152.314617,"Mungo Brush Road , near northern broadwater picnic area",Walking,Ducks into bushes when car approaches,BA,Researcher,M,A
+Dingo,1,10-09-2021,7:20,8:15,MB,UOM2002,N,-32.509171,152.319427,Mungo Brush,Lying,"Lying in the sun, then howling for a long time. Heads up old Mining Rd  alone, but appears to be howling to another dog",BA,Researcher,M,A
+Dingo,2,10-09-2021,10:10,10:18,MB,UOF1801 UOM1701,Y,-32.538777,152.316543,Dees Corner Campground,Sleeping,"Lying in the sun, no movement",BA,Researcher,FM,AA
+Dingo ,1,10-09-2021,11:30,11:32,None,SLF1901,N,-32.669301,152.178028,Hawks Nest,Begging,Begging for food near car ,BA,Researcher,F,A
+Dingo,1,5-10-2021,14:35,14:30,None,SLF1901,Y,-32.66884,152.178,Hawks Nest,Begging,Begging for food near car,BA/FP,Researcher,F,A
+Dingo,1,5-10-2021,15:30,15:31,SL,SLF2003,N,-32.59927,152.267988,Dark Point,Walking,"Perhaps scared, walking away, on the dunes.",BA/FP,Researcher,F,A
+Dingo,4,5-10-2021,16:10,16:30,MB,UOM1701 UOF1801 UOM2001 UOM2002,Y,-32.544101,152.31031,Beach opposite Mungo Brush,Walking,"Playing, walking together, commuting down the beach. ",BA/FP,Researcher,FMMM,A
+Dingo,2,5-10-2021,21:00,21:02,MB,UOM1701 UOF1801,N,-32.5091,152.319,Boomeri,Walking,Both dogs commuting with purpose,BA/FP,Researcher,FM,A
+Dingo,2,5-10-2021,22:00,22:03,MB,UOM1701 UOF1801,N,-32.5091,152.319,Boomeri,Walking,Returning back the othe way,BA/FP,Researcher,FM,A
+DIngo,4,6-10-2021,14:00,14:10,SL,SLF2002 SLU2101 SLU2102 SLU2103,Y,-32.599867,152.265724,Dark Point,Hanging around den,"checking out us and being generally protective of pups. Mum looked as if she were rounding up the pups potentially, pups scattered when we arrived.",BA/FP,Researcher,FUUU,APPP
+DIngo,1,1-11-2021,12:54,12:55,None,SLF1901,N,-32.669738,152.177974,Corner of Mermaid road. ,Standing,Essentially begging,NJ,Researcher,F,A
+DIngo,1,1-11-2021,13:20,13:20,JB,UOF1501,Y,-32.67768,152.18291,HN,Running,Running away through thick bush. Collar moving freely. No better sighting. Downloaded collar.,NJ,Researcher,F,A
+DIngo,4,1-11-2021,17:40,17:45,SL,SLF2003 SLF2001 SLF1501 Unknown,Y,-32.6005,152.260363,Dark point near den,,Vicinity of den. lots of pup tracks. SLF2003 downloaded. Barked howled on approach and Socks and SLF2001 (nips not up) and one other (older male perhaps from 2019?) came running from oceanside dune and were snuffing etc. Found sipwells nearby- see pics. ,NJ/BP,Researcher,FFFU,AAAA
+DIngo,1,3-11-2021,14:47,14:51,None,SLF1901,Y,-32.600935,152.241086,Beside Mungo Brush road in park. Looks moulty and in poor condition. SL1.,,,NJ/BP,Researcher,F,A
+Dingo,3,13-11-2021,17:45,,MB,UOM1701 UOF1801 UOM2001 UOM2002,N,-32.509181,152.320206,Boomeri,Howling,Photos sighted and IDs confirmed. ,Tourists,Researcher,MMF,AAA
+DIngo,1,14-11-2021,17:30,17:40,SL,SLF2003,Y,-32.6096,152.228765,MB road through to SL camp,Moving along road. ,Hunted bird in road verge (unsuccessful pounce). Collar downloaded. Collar moving freely.,NJ,Researcher,F,A
+DIngo,1,14-11-2021,18:10,18:19,MB,UOM2001,Y,-32.542509,152.309598,MB campsite,Foraging,Eating remians of pot noodle from BBQ area,NJ,Researcher,M,A
+Dingo,2,15-11-2021,15:44,15:44,,Unknown Unknown,N,-32.32467,152.08929,West of highway offroad,Running,Were resting beside road.,BP,Researcher,UU,AA
+Dingo,3,17-11-2021,17:40,18:00,MB,UOM2002 UOM1701 UOF1801,Y,-32.509226,152.320341,Boomeri,Resting,"All sleeping, collars ok. Bombah Boy collar not working",BA/SG,Researcher,MFM,AAA
+Dingo,1,18-11-2021,11:04,11:05,SL,SLF2002,N,-32.615088,152.221118,MB road,Walking,Walking along road back twoards SL. Seemed to be with car that may have intended to feed? Dis weird U turn. Nipples up but not wet.,NJ/BP,Researcher,F,A
+Dingo,1,18-11-2021,11:14,11:18,None,SLF1901,Y,-32.669301,152.178084,Corner of Mermaid road. ,Standing,Essentially begging,NJ/BP,Researcher,F,A
+Dingo,2,18-11-2021,12:20,12:22,JB,UOF1501 UOM2008,N,-32.67873,152.182385,Bush beside camp site,Running,"Running from us. Two seen. No clear view of collar, but running unimpeded. Tourists saw her previous day and collar looked good. Collar downloaded prior to sighting.",NJ/TH,Researcher,FU,AU
+Dingo,1,18-11-2021,13:00,13:01,None,SLF1901,N,-32.67873,152.182385,Bush beside camp site,Eating,Eating pie that appeared to have been dropped by silver 4x4.,NJ,Researcher,F,A
+Dingo,2,18-11-2021,16:56,17:46,SL,SLF1501 Unknown,Y,-32.601225,152.26323,Resting in dunes then on beach,,Found near den but not at it. Joined another dingo in dunes that we couldn't see socks to ID. ,NJ/BP,Researcher,FU,AA
+Dingo,1,18-11-2021,,,SL,SLF2001,Y,-32.632256,152.209195,Beach access at Lemontree,Walking,Walking past us towards DP as we rescue tourist stuck on beach,NJ/BP,Researcher,F,A
+Dingo,1,19-11-2021,14:10,14:20,SL,,Y,-32.62712,152.20612,MBR,Walking,"Stopped on car approach, some begging behaviour",BA/SG,Researcher,F,A
+Dingo,2,23-11-2021,19:00,,MB,UOM2002 UOM1701,N,-32.542942,152.310282,MB camp,,,BP,Researcher,MM,AA
+Dingo,4,24-11-2021,,,MB,UOM1701 UOF1801 UOM2002 UOM2001,Y,-32.543575,152.307861,MB camp,Resting,Collars both look good and well fitting. ,BP,Researcher,FMMM,AAAA
+Dingo,1,2-12-2021,18:30,18:31,JB,UOF1501,Y,-32.675787,152.18341,Bush near Jimmys,Walking,,SG,Researcher,F,A
+Dingo,1,3-12-2021,13:00,13:10,SL,SLF2002 ,Y,-32.601054,152.267414,Dark Point,Standing and walking,,SG,Researcher,F,A
+Dingo,1,3-12-2021,19:26,19:30,WT,UOM1707,Y,-32.667304,152.176663,Myall St Hawks Nest,Standing/Begging,,SG,Researcher,M,A
+Dingo,1,5-12-2021,13:39,13:40,JB,Unknown,Y,-32.676586,152.168914,Bushland Winda Woppa,In bush,,SG,Researcher,U,U
+Dingo,1,5-12-2021,17:33,17:47,JB,UOF1501,N,-32.678155,152.177795,Jimmy's beach caravan park,Walking,"Tracked through Yacaba from Jimmy's beach. Seen in Jimmys beach CP after dark. Walking through and beside play ground. Looked in good condition. Collar was good fit, moving freely but not too loose. Picked up again on road out to Winda Woppa. Relaxed with car. Seen to urinate on post beside playground. ",NJ,Researcher,F,A
+Dingo,1,12-05-2021,21:00,21:03,SL,SLF2003,N,-32.607657,152.232478,SL campsite #1,Skulking,Skulking through camp. Antenna bent. Some residual tape on leg from darting- doesn't seem to be issue. Vet says will fall off. No limping or sign of constriction. ,NJ,Researcher,F,A
+Dingo,1,6-12-2021,22:41,22:42,JB,Unknown,N,-32.693342,152.190163,Yaccaba,,"Smallish female (pretty sure) dingo, no black on the face, looked like a fairly typical ""Fraser Island"" dingo though a bit scrawny. Was heading towards the Port Stephens side of Yacaaba (I'd just come down from looking for seabirds up at the summit). Only features I could note were no huge socks (if they were present they were small), a dark patch on the lower back, and a small black/dark area on the tail before the white tip. Was too far to photograph, just viewed it through binoculars. No collar.",,Researcher,,
+Dingo,1,7-12-2021,17:10,17:15,WT,UOM1707,Y,-32.6669,152.174274,Myall St Hawks Nest,Begging,,SG,Researcher,M,A
+Dingo,2,28-9-2020,,,MB,MBM1501 MBM1901,Y,-32.527828,152.322571,White Tree Campground,Dead,Dominant female was trapped. NP shot these two after 7yo child was bailed up previously. Dogs were agressive to NP.,NP,Researcher,M,A
+Dingo,2,16-12-2021,19:30,19:40,SL,SLF1501 PCM1601,Y,-32.608195,152.230069,Mungo Brush Road,Resting,Male limping heavily- both very skinny,BA/BP/JS/NJ,Researcher,FM,A
+Dingo,1,17-12-2021,10:35,10:38,UNK,SLF1901,Y,-32.659407,152.180508,Shitworks,Begging,"Begging, Foxy",BA/JS,Researcher,F,A
+Quoll,1,18-12-2021,16:50,16:50,,,N,-32.457274,152.462707,middle camp trail,walking,Ran away through scrub when seen,JS,Researcher,U,U
+Dingo,2,24-01-2022,8:57,9:00,SL,SLF2002 SLF2003,Y,-32.610822,152.227397,Mungo Brush Road,Standing,"Cathy, standing and trotting up road, stops by car, collar looks good",BA/HM,Researcher,F,AA
+Quoll,1,24-01-2022,16:54,16:54,,,N,-32.441775,152.453196,Middle camp trail,"Walking, running","walking across road, didn't notice car 100m away. Ran into bush as we approached",BA/HM,Researcher,U,U
+Dingo,1,9-02-2022,14:19,14:25,SL,SLF2002,Y,-32.622446,152.211205,Mungo Brush Road,Begging,"Cathy, crossed road for car, begging by side",BA/JC,Researcher,F,A
+Dingo,1,9-02-2022,15:55,15:58,SL,SLF2002,Y,-32.624265,152.209114,Mungo Brush Road,Begging,"Cathy, again serious begging behaviour",BA/JC,Researcher,F,A
+Dingo,4,11-02-2022,9:15,9:42,MB,UOM1701 UOF1801 UOM2001 UOM2002,Y,-32.560137,152.299984,hole in the wall picnic area,"Walking, running","3 dingoes seen at hole in the wall on MBR. All ran down to beach, and female dug up a fish and began eating. From distance they all saw red dog about 400m away trotting towards them from the south. Bombah Boy and Skinny boi looked very attentive, female uninterested. After a while both males sprinted towards red dog, he lay submissively down, and they all greeted him, wagging tails. Lay together for some time, until female arrived. red dog then continued down beach towards hole in the wall, heading north. Dug for a little bit at a particular spot and pulled out very big fish. Spent next ten minutes eating. ",BA/JC,Researcher,FMMM,AAAA
+Dingo,4,12-02-2022,8:54,8:56,MB,UOM1701 UOF1801 UOM2001 UOM2002,Y,-32.554351,152.303649,Mungo Brush Road,trotting,"Commuting down road, red dog missing",BA/JC,Researcher,FMMM,AAAA
+Dingo,1,12-02-2022,9:07,9:12,SL,SLF2002,Y,-32.628992,152.203749,Mungo Brush Road,Beggin,Cathy. came across road and chased car down the street quite aggressively or playfully. absolutely sprinting for about 300m ,BA/JC,Researcher,F,A
+Dingo,1,22-02-2022,13:00,13:02,SL,SLF1901,Y,-32.670674,152.177738,Reserve opposite bakery,Begging,Foxy,BA/SG,Researcher,F,A
+DIngo,1,30-04-2022,,,JB,UOF1501,Y,,,Jimmys beach CP,Dead,"Found dead after attach by other canid, presumably other dingo.",NPWS,Researcher,F,A
+Dingo,1,27-04-2022,,,SL,SLF2003,Y,-32.355196,152.449898,Wallingat NP - Sugercreek road,Walking,Seen by VSA. Dispersed?,NPWS,Researcher,F,A
+Dingo ,1,18-03-2022,9:47,9:47,MB,UOM2002,Y,-32.561339,152.301354,Hole in the Wall - on the beach,Resting,,CB,Researcher,M,A
+Dingo ,2,9-02-2022,,,SL,SLF2003 SLM210,Y,-32.608367,152.232207,S&L camp ground,Social,Interacting,CB,Researcher,M,A
+Dingo,1,2-05-2022,8:22,,SL,SLF2102,Y,-32.66336,152.17914,Road kill on Mungo Brush road opposite the golf course in Hawks Nest,Dead,Found by campers and reported to NPWS.,NPWS,Researcher,F,A
+Dingo,1,4-07-2021,,,SL,SLF2002,Y,-32.607519,152.230924,On mungo brush road - before SL camp ground,Walking,,CB,Researcher,F,A
+Dingo,1,14-06-2021,,,SL,SLF2002,Y,-32.644556,152.186192,Between goldf course and NP,Walking,,CB,Researcher,F,A
+Dingo,1,10-01-2022,,,SL,SLF2002,Y,-32.668466,152.178363,in front of golf course,Resting,,CB,Researcher,F,A
+Dingo,1,23-05-2021,,,MB,UOM1701,Y,-32.543943,152.310267,Raking outside Mungo brush camp entrance,Marking,,CB,Researcher,M,A
+Dingo,1,23-05-2021,,,,SLF1901,Y,-32.634939,152.194122,Edge of NP,Standing,,CB,Researcher,F,A
+Dingo,1,22-02-2021,,,SL,SLF2001,Y,-32.560613,152.300323,Hole in the wall,Walking,,CB,Researcher,F,J
+Dingo,2,6-02-2021,,,,UOM1702,Y,,,Jimmy's Beach,Standing,On reflection these individuals look much younger,CB,Researcher,M,AA
+Dingo,1,5-02-2021,,,,UOM1702 UOF1703,Y,,,Jimmy's Beach,Resting,On reflection these individuals look much younger,CB,Researcher,MF,AA
+Dingo,2,16-12-2021,19:30,19:39,SL,SLF1501 PCM1601,Y,-32.607323,152.231283,road at entry to S&L camp ground,Walking,Very skinny and in poor condition. Piper in particular. Piper is barely putting weight on his right huind. Ribs showing. Both look very old and frail.,NJ/BP/BA/JS,Researcher,MF,AA
+Dingo,1,17-12-2021,14:29,14:30,SL,SLF2001,Y,-32.594163,152.263714,200m S Dark Point,Walking,,NJ/KJ/AJ/LJ,Researcher,F,A
+Dingo,1,17-12-2021,15:15,15:20,SL,SLF2003,N,-32.600102,152.262035,Dark pt den ,Resting,"Collar downloaded. Fleeting glimpses only, but mobile",NJ/BP,Researcher,F,A
+Dingo,1,17-12-2021,15:40,16:00,SL,SLF2001,Y,-32.601467,152.264159,Dark pt beach,Foraging,"Eating scraps, cooling off in waves, Walking from DP south toward lemontree in wash. ",NJ/BP/KJ/LJ/AJ,Researcher,F,A
+Dingo,1,18-12-2021,10:55,11:16,,SLF1901,N,,,Roadside,Begging,begging from cars,NJ,Researcher,F,A
+Dingo,1,18-12-2021,11:35,11:38,SL,SLF2003,Y,-32.607636,152.232568,SL CAMP GROUND,Walking,Collar moving freely. No limps or issues. Good condition,NJ,Researcher,F,A
+Dingo,2,20-12-2021,11:30,11:35,MB,UOM2002 UOF1801,N,-32.543506,152.30968,Back of bins at Mungo Brush,Resting,"Not a clear view of Red Dog, but moving freely",NJ,Researcher,MF,A
+Dingo,1,20-12-2021,14:14,14:15,,SLF1901,N,-32.671352,152.177695,Bakery area,Resting,Waiting around parked cars,NJ,Researcher,F,A
+Dingo,1,20-12-2021,15:15,15:20,MB,UOM2002,N,-32.542496,152.311018,MB camp,Moving,"Collar looking good. Snug but moving freely. VHF down to ~200m. Tourists reported seeing 3, 2 with collars, all in good condition. ",NJ,Researcher,M,A
+Dingo,1,21-12-2021,11:26,,SL,SLF2001,N,-32.613924,152.222611,1km S S&L on road,Moving,Running along road and into town,NJ,Researcher,F,A
+Dingo,1,7-04-2022,16:25,16:30,JB,JBM2101,N,-32.679014,152.178806,JB carpark caravan park,Foraging,Checking out trail;er with bait inside,NJ,Researcher,M,S
+Dingo,2,8-04-2022,5:30,,MB,UOM1701 UOM2001,N,-32.581274,152.285662,Brambles Green,Foraging,Circling closed cage with bait inside,NJ/BS/JA,Researcher,MM,AA
+Dingo,2,8-04-2022,6:47,9:00,MB,UOM1701 UOM2001,Y,-32.581274,152.285662,Brambles Green,Trapped,Bombah_Boy trapped and collar removed,NJ/BS/JA,Researcher,MM,AA
+Dingo,1,8-04-2022,,,YG,YGM2102,Y,-32.445121,152.518208,Treachery car park,Trapped,Tekka trapped and collared,NJ/TIDE/BP/BS etc,Researcher,M,S
+Dingo,1,8-04-2022,15:37,,SL,SLF2001,Y,-32.614005,152.222211,1.9km N Lemontree,Walking,Walking along road. BS pics. ,BS/NJ/BP/NP/MC,Researcher,F,A
+Dingo,2,8-04-2022,17:11,,MB,UOM1701 UOM2001,N,-32.593385,152.268112,Dark Point carpark,Walking,Both moving and walking well. Look in good condition.,NJ/BS,Researcher,MM,AA
+Dingo,1,7-04-2022,7:00,7:02,MB,UOF1801,Y,-32.509172,152.319881,Boomeri,Walking,trotting off down Gibber rd,NJ,Researcher,F,A
+Dingo,1,7-04-2022,12:41,13:05,MB,UOF1801,Y,-32.509172,152.319881,Boomeri,Eating,scavenging scraps at the campsite. Collar downloaded. Is in great condition.,ALL,Researcher,F,A
+Dingo,2,7-04-2022,,,MB,UOM1701 UOM2001,Y,-32.593385,152.268112,Dark Point carpark,Captured,Fabio captured. Not collared.,ALL,Researcher,MM,AA
+Dingo,2,7-04-2022,,,MB,UOF1801 UOM2002,Y,-32.543544,152.309829,MB bins,Captured,Bombah captured and collared. ,ALL,Researcher,FM,AA
+Dingo,2,6-04-2022,17:55,,MB/SL,SLF1501 UOM2002,Y,-32.593385,152.268112,Dark Point carpark,Captured,Socks captured and collared. Red Dog there too.,ALL,Researcher,FM,AA
+Dingo,1,6-04-2022,17:52,,SL,SLF2003,N,-32.589603,152.278023,Brambles Green,Walking,Walking along rioad. Good condition. ,NJ/BS,Researcher,F,A
+Dingo,1,6-04-2022,23:25,23:16,SL,SLF2003,N,-32.581455,152.286079,Trail near Brambles green,Walking,Walking on trail. Looks good,NJ,Researcher,F,A
+Dingo,3,6-04-2022,,,JB,UOM2008 UOF1501 JBF2103,?,-32.678211,152.177612,JB playground,Walking,Hanging around playground as we set up trap,NJ/ALL,Researcher,FMF,AAS
+Dingo,1,6-04-2022,,,JB,JBM2101,N,-32.679307,152.17943,JB track at CP,Walking,"Tripped trap, and left",NJ,Researcher,M,S
+Dingo,1,7-04-2022,4:35,4:35,UNK,Unknown,N,-32.66147,152.179631,MBR- golf course,Walking,Crossed road by golf course. Male with dark face.,BP,Researcher,M,A
+Dingo,1,7-04-2022,11:00,11:10,SL,SLF2001,Y,-32.609133,152.229205,150m S S&L,Walking,BS pics. On road,BS,Researcher,F,A
+Dingo,1,5-04-2022,16:57,17:00,JB,JBF2103,?,-32.678911,152.178659,JB carpark caravan park,Foraging,Looking into the trailer. Female pup- see sheet for ID ,NJ/BP,Researcher,F,S
+Dingo,1,7-04-2022,1:08,1:14,,Unknown,N,-32.545738,152.308646,MB camp road,Walking,Unknown collared animal- not seen well,,Researcher,U,A
+Dingo,1,7-04-2022,6:04,6:05,MB,UOM1701 UOM2001,N,-32.547632,152.307618,"MB road, between BG and MB camps",Walking,Walking along road,BP,Researcher,MM,AA
+Fox,1,5-04-2022,2:33,2:34,,,N,-32.619961,152.213923,700m N of Lemontree,Walking,Walking along road,NJ,Researcher,U,A
+Dingo,1,7-04-2022,7:15,,MB,UOM2002,?,-32.593097,152.268659,Dark Point road,Walking,,NJ,Researcher,M,A
+Dingo,2,7-04-2022,15:36,15:50,MB/SL,SLF1501 UOM2002,Y,-32.607304,152.231955,Stewart and Lloyds camp,Mating,"Red dog mounting socks. RD urinated, Socks overmarked, red dog overmarked tagin. RD collar downloaded. Both look in great condition.",ALL,Researcher,MF,AA
+Dingo,2,13-01-2022,10:48,11:10,MB,UOM1701 UOM2002,Y,-32.543109,152.309768,MB camp,Walking,Wandering about. RD collar downloaded. ,NJ/BP/PW,Researcher,MM,AA
+Dingo,1,13-01-2022,,,,SLF1901,Y,-32.668872,152.183118,Golf course carpark,Walking,Chasing car - blue. Need to get pics from BP/PW/,BP/PW,Researcher,F,A
+Dingo,2,13-01-2022,14:00,15:23,JB,UOM2008 UOF1501,N,-32.679381,152.181113,,Resting,Collar downloaded. Brief glipmses only. Moving fine. Collar starting to fail. Lots of zeros.,NJ/BP/PW,Researcher,FM,AA
+Dingo,1,13-01-2022,16:41,16:41,,UOF1701,N,-32.667406,152.178361,Crossing road from E to Golf course rd,Walking,ID Unknownb- puppi long stocking,NJ/BP/PW,Researcher,U,A
+Dingo,1,14-01-2022,12:50,13:20,SL,SLF2001,Y,-32.605402,152.252701,Walking along beach,Foraging,Eating prawns dug up from fishing bait?,NJ/BP/PW,Researcher,F,A
+Dingo,1,8-02-2022,,,SL,SLF2003,?,,,,Resting,Downloaded,NJ,Researcher,F,A
+Dingo,1,8-02-2022,,,JB,UOF1501,N,,,,Resting,Not seen. Only downloaded,NJ,Researcher,F,A
+Dingo,1,16-03-2022,17:20,17:47,JB,JBF2103,Y,-32.67985,152.178307,JB CP and beach.,Walking,"Walked onto beach. Approached mother and baby, who were clearly intimidated. Couple walked over and chased off dingo by clapping and flapping. ",NJ/BP,Researcher,M,S
+Dingo,2,16-03-2022,21:10,21:12,MB,UOM1701 Unknown,N,-32.48176,152.35299,,,,NJ/BP,Researcher,MU,AA
+Dingo,1,15-04-2022,,,SL,SLM2104,Y,-32.608079,152.2322,Stewart and Lloyds camp,Begging,Pictured inside shelter,BP,Researcher,M,S
+Dingo,3,21-04-2022,,,MB/SL,SLF1501 UOM2001 UOM1701,Y,,,Beach,Mating,Fabio mating Socks while Bombah_Boy looks on,NP,CS,MMF,AAA
+Dingo,2,21-04-2022,,,MB/SL,UOM2001 SLF1501,Y,-32.608079,152.2322,Stewart & Lloyds camp,Resting,,DP,CS,MF,AA
+Dingo,2,28-04-2022,,,MB,UOM2002 UOF1801,Y,-32.502725,152.305908,Bombah depot,Walking,Red dog has bloody head from fight. Collars well fitting and otherwise both healthy.,DP,CS,MF,AA
+Dingo,2,16-05-2022,15:49,16:23,MB,UOM2001 UOF1801,Y,-32.539347,152.315746,"From beach along Mungo Brush road, various camps.",Walking Eating Marking,"emerge from MB beach. Rake and RLU on west side of road opposite sand access to beach. Ran along road to S and entereed raiforest trail. Came through MB camp. Fab has scar on ight forehead. Fab urine marks at camp 60-63 marker post at 16:03. Bombah has swollen vulva. at 1610 walk past two adult walkers on MBR. Passed without issue. Tourists were in awe and said ""that was so cool"". Arrive Banksia Green camp and find and consume fish frames at back of camp. Left there. ",NJ,Researcher,MF,AA
+Dingo,3,16-05-2022,6:45,,MB/SL,UOM2001 UOM2002 Unknown,N,-32.608274,152.232192,SL campsite,Fighting,Tourist sighting of red dog and Fabio fighting. Another female present - not sure if this was Socks or Bombah. ,Tourists,CS,MMF,AAA
+Dingo,1,16-05-2022,19:45,,,Unknown,N,-32.403412,152.461372,200m S Horse point rd,Walking,Unknown individual crossing road. Adult calssic sandy colour. ,NJ,Researcher,U,A
+Dingo,1,17-05-2022,15:10,15:20,YG,YGM2102,Y,-32.447179,152.516358,Treachery camp,Resting Walking,Tekka lying in camp. Looks good. Collar moves freely. Walked out onto road too. ,NJ/BP,Researcher,M,S
+Dingo,1,17-05-2022,17:58,17:59,JB,JBM2101,N,-32.678183,152.177967,JB caravan car park,Walking,Good condition. 4.,NJ/BP,Researcher,M,S
+Dingo,2,18-05-2022,10:31,10:33,MB,UOM2001 UOF1801,N,-32.516374,152.323055,20km corner,Marking Walking,Fabio marked (F) at base of angop[hora(?) - faeces collected. Bombah sniffed and countermarked aside on leaf litterand raked. Fabio countermark nearly with urine and rake on leaf litter. Both trot off towards MB. ,NJ/BP,Researcher,MF,AA
+Dingo,1,17-05-2022,23:30,,,SLF2003,Y,-32.329543,152.477927,House on Thomas road,Walking,Security camera footage - same place from sightings with chicken predation,CS,Researcher,F,A
+Dingo,1,18-05-2022,17:13,17:14,JB,JBM2101,N,-32.669713,152.177899,Walking across MBR,Walking,,NJ,Researcher,M,S
+Dingo,1,18-05-2022,18:13,18:15,WT,UOM1707,N,-32.66733,152.177707,Raking at cnr of Curlew and Kingfisher,Marking,,NJ,Researcher,M,A
+Dingo,2,19-05-2022,6:45,,MB,UOM2001 UOF1801,Y,-32.538799,152.317037,Dees corner,Mating,,NP,CS,MF,AA
+Dingo,3,19-05-2022,10:40,10:45,MB,UOM2001 UOF1801 UOM2002,N,-32.544067,152.30982,100m s MB bins in scrub,Resting,,NJ,Researcher,MMF,AAA
+Dingo,1,19-05-2022,11:25,11:40,SL,SLF1501,Y,-32.599341,152.266202,Back of dunes near Dark point,Resting,Collar downloaded. Good condition. ,NJ,Researcher,F,A
+Dingo,2,19-05-2022,12:55,13:15,JB,UOM2008 JBF2106,Y,-32.676549,152.176137,"Returning from Winda woppa along W shore, into woods at L and then into JB Caravan park. ",Walking,Collar downloaded. Both in good condition. Collar moving freely. ,NJ,Researcher,FM,SA
+Dingo,1,7-05-2022,15:00,15:29,SL,SLF1501,Y,-32.60795,152.232459,S&L campground,"Trotting around beach, then begging","Ran along the shore presumably looking for food, then circled back to camp and was begging. Red dog also detected on antenna",BA,Researcher,F,A
+Dingo,1,7-06-2022,10:45,10:48,JB,JBM2101,Y,-32.678281,152.17815,Jimmys beach caravan park,Looking for food,,BA,Researcher,M,A
+Dingo,1,7-06-2022,12:34,12:45,JB,UOM2008,N,-32.677514,152.179051,Jimmys beach caravan park,Walking,,BA,Researcher,M,A
+Dingo,2,7-06-2022,14:59,15:07,JB,JBM2101 UOM2008,Y,-32.675988,152.184416,Beach Rd Bennets Beach,"Walking down road, went onto beach","Collar not downloaded. Looked good. Walking, UOM2008 was howling to get yearlings attention",BA,Researcher,MM,AA
+Dingo,1,7-07-2022,6:38,6:41,YG,MBF1701,Y,-32.400458,152.459921,"Walking to Neranie, looked like may have been with adult male",Walking,,BA,Researcher,F,A
+Dingo,1,7-07-2022,7:50,7:51,SL,UOM2002,Y,-32.589918,152.277123,MBR,Walking,Walking alone South down MBR towards dark point,BA,Researcher,M,A
+Dingo,2,7-07-2022,13:26,14:00,SL,SLF1501 SLF20???,Y,-32.60795,152.232459,S&L camground,Begging,Begging outside one guys van,BA,Researcher,FF,AA
+Dingo,2,7-08-2022,7:51,7:59,MB,UOF1801 UOM2001,Y,-32.560142,152.299995,MBR ,Walking,"Walking south direction MBR, walking onto Hole in wall area",BA,Researcher,FM,AA
+Dingo,1,7-08-2022,11:30,11:31,YG,YGM2101,Y,-32.448452,152.516591,Treachery camp,Resting,Collar looked good,PS,Researcher,M,A
+Dingo,1,?,?,?,WT,UOM1707,Y,?,?,In Hawks Nest,Walking ,,Jake,CS,M,A
+Dingo,1,?,?,?,JB,JBM2101,Y,?,?,Hawks Nest,Standing,,Jake,CS,M,A
+Dingo,1,7-09-2022,12:40,13:30,YG,MBF1701,Y,-32.447164,152.515836,Treachery Camp,Walking,Standing around at camp. Then later seen moving off to suspected den site on hill near 'primative' camp sign. ,BA/JS,Researcher,F,A
+Dingo,2,9-09-2022,10:30,10:45,MB,UOM2001 UOF1801,Y,-32.542866,152.309559,MB campground,Resting,Resting under tree at camp,BA/JS,Researcher,MF,A
+Dingo,2,9-09-2022,13:00,13:30,SL,SLF1501 SLF20?,N,-32.601693,152.268755,Dark Point,Begging/Resting,Young female resting on sand- Socks standing on cliff 2m above fisherman waiting for food. ,BA/JS,Researcher,FF,
+Dingo,2,9-09-2022,17:49,18:20,MB,UOM2001 UOF1801,Y,-32.542866,152.309559,MB campground,Begging around camp.,Both dingoes seen separately multiple times over the night. Both were begging at camp and walking around looking for food. Seen at night going through peoples things. ,BA/JS,Researcher,FM,
+Dingo,1,8-01-2022,12:00,12:20,SL,SLF1501,Y,-32.607886,152.2323,SL camp ground,Walking,Lactating. Collar downloaded. ,BP,Researcher,F,A
+Dingo,2,8-01-2022,,,SL,SLF1501,N,-32.607886,152.2323,SL camp ground,Den,Socks and pups at den,NJ/BP,Researcher,F,AP
+Dingo,1,8-02-2022,15:45,15:52,SL,SLF1501,N,-32.607886,152.2323,SL camp ground den,Den,Camera set up near den,NJ/BP,Researcher,F,A
+Dingo,1,8-02-2022,16:56,17:14,JB,UOM2008,Y,-32.676599,152.168536,The Anchorage then Jimmy's beach,Playing,Playing around on sand dune,NJ/BP/HV,Researcher,M,A
+Dingo,1,8-02-2022,20:35,21:00,JB,JBM2101,N,-32.681096,152.185616,Yaccaba,,,NJ/BP/HV,Researcher,M,A
+Dingo,1,8-02-2022,21:05,21:10,JB,JBF2106,N,-32.67212,152.17743,Opposite cafe,,Opposite cafe.,NJ/BP/HV/SR,Researcher,,
+Dingo,1,8-03-2022,17:01,17:34,MB,UOF1801,Y,-32.53936,152.31594,Dees Corner- MB,Walking,Looking good. Trotting about. Collar antenna is off,NJ/HV,Researcher,F,A
+Dingo,1,8-03-2022,22:10,22:11,JB,JBF2106,N,-32.678183,152.177967,JB PLAYGROUND,Walking,,NJ,Researcher,F,A
+Dingo,1,8-03-2022,22:30,22:31,UNK,UOM2004,N,-32.678183,152.177967,JB PLAYGROUND,Walking,Itinerant male that we previously saw at SL. Following track of female in JB playground,NJ,Researcher,M,A
+Dingo,1,8-03-2022,22:40,22:42,,,Y,-32.671749,152.17759,"Yamba st, next to MBR",Sniffing,"Female itinerant. Unknown ID, have video and image",NJ,Researcher,F,A
+Dingo,1,8-03-2022,18:05,18:30,MB,UOM2002,N,-32.592683,152.267635,Dark pt,Walking,"Red Dog Collar- no signal, no download.",NJ/HV,Researcher,,
+Dingo,1,8-04-2022,16:45,16:51,WT,UOM1707,N,-32.64826,152.185234,MBR,Walking,Woppa boy. Was quite nervous. Moving south along MBR road,NJ,Researcher,,
+Dingo,4,8-04-2022,17:05,17:15,MB,UOM2002,N,-32.607637,152.233162,At den,Sleeping,"Red Dog was at the den. Was sleeping when I encountered him and 3+ pups. He escorted me out of there, then carried on down MBR",NJ,Researcher,,
+Dingo,1,17-10-2022,11:25,11:40,YG,MBF1701,Y,,,Treachery camp,Scrounging food. ,Was fed a bread roll. ,NJ,Researcher,F,
+Dingo,5,17-10-2022,15:40,16:30,SL,SLF1501 SLP2201 SLP2202 SLP2203 SLP2204,Y,,,SL camp,REsting,Pup guarding.,NJ,Researcher,,
+Dingo,1,18-10-2022,10:10,10:20,YG,YGM2102,Y,,,Neranie - SRR,Moving,Wandering along road. Watched with students.,NJ,Researcher,,
+Dingo,1,18-10-2022,,,MB,UOM1801,Y,,,MB camp 30,Resting,Looks great- welfare ck fine.,NJ,Researcher,F,A
+Dingo,1,18-10-2022,,,JB,JBM2107,Y,,,Yacaba beach - interacting with fisher,Interact,Interacting with Fisher- this is stumpy,NJ,Researcher,M,A
+Dingo,1,18-10-2022,15:53,16:05,JB,UOM2008,Y,,,Begging outside 42 the boulevard,Scrounging,Begging and lounging about,NJ,Researcher,M,A
+Dingo,6,18-10-2022,16:15,16:33,SL,SLF1501 SLP2201 SLP2202 SLP2203 SLP2204 SLP2205,Y,,,SL camp,Resting,Eventually went up over the dune.,NJ,Researcher,F,APPPPP
+Dingo,1,19-10-2022,11:48,11:48,UNK,The distinctive new male from around YG,N,,,Crossed road near lighthouse beach,Running,Same male that we saw at Treachery,NJ,Researcher,M,A
+Dingo,1,16-10-2022,18:25,18:30,UNK,The distinctive new male from around YG,N,,,Treach.,Walking,Skulking aroung bushes. Brenadan has an ID on him from cameras...,NJ/BA etc,Researcher,M,A
+Dingo,1,21-10-2022,12:50,13:18,MB,UOM2001,Y,,,MB camp,Moving,Wandering around,NJ etc,Researcher,M,
+Dingo,1,21-10-2022,14:51,14:52,JB,JBM2107,Y,,,On road to surfclub,Moving,,NJ etc,Researcher,,
+Dingo,1,21-10-2022,16:35,16:36,UNK,UNK,N,,,Mangroves near anchoarge,Moving,Coursed off into mangroves. Not seen well.,NJ etc,Researcher,,
+Dingo,1,21-10-2022,16:40,16:55,JB,UOM2008,Y,,,Playground at WW,Moving,Started in WW reserve. Took wide berth around domestic dogs on leash. Dogs wanted to chase.,NJ dtc,Researcher,M,A
+Dingo,1,22-10-2022,14:56,15:00,YG,MBF1701,N,,,Satara 1 at Treachery,Moving,Lactating. coursing.,NJ etc,Researcher,F,A
+Dingo,2,07-12-2022,14:10,14:20,SL,SLP22? SLP22?,Y,,,SL Camp,Resting,Both resting,,Researcher,,PP
+Dingo,7,08-12-2022,13:15,13:40,SL,UOM2002 SLF1501 SLP2201 SLP2202 SLP2203 SLP2204 SLP2205,Y,,,SL Camp,Restin,"Most resting- some pups playing, 1 dark face came to car",BA,Researcher,FM,PPPPPAA
+Dingo,1,20-12-2022,11:56,12:00,SL,SLP?,Y,-32.600407,152.242084,MBR,Walking/Begging,Was walking towards car when we stopped,BA,Researcher,F,P
+Dingo,1,20-12-2022,12:30,13:15,JB,UOM2008,Y,,,"All over town- Coming from Winda Woppa, followed to JB caravan park",Walking,Was going into houses to check bins etc. Went to campground and was waiting at a picnic table,BA,Researcher,M,A
+Dingo,1,20-12-2022,13:35,13:45,UNK,UOF??,Y,-32.65279,152.182903,Just outside Shitworks,Walking,Begging near car,BA,Researcher,F,A?
+Dingo,4,20-12-2022,13:45,14:30,SL,UOM2002 SLP22? SLP22? SLP22?,Y,,,SL camp,Resting,All sleeping,BA,Researcher,MPPP,APPP
+Fox,1,20-12-2022,19:21,19:22,UNK,?,N,-32.445049,152.446599,Mining Rd,Commuting,Ran off when heard car,BA,Researcher,U,A
+Dingo,3,11-01-2023,12:00,12:30,SL,UOM2002 SLF1501 SLP22? SLP22?,N,,,SL camp,Resting,Just sleeping,BA,Researcher,MFMU,AAPP
+Dingo,1,25-01-2023,9:00,9:10,YG,YGM2102,Y,-32.435787,152.528514,Seal Rocks,Commuting,"Checking out houses, heading towards treachery/Yagon",BA,Researcher,M,A
+Dingo,2,26-01-2023,7:00,7:15,MB,UOM2001 UOF1801,N,-32.483872,152.303484,Freshwater Campground,Moving,"Checking out the campground- Bombah tore into bush chasing something. Also lots of howling, some from bombah.",BA,Researcher,MF,AA
+Dingo,2,13-02-2023,18:50,18:52,MB,UOM2001 UOF1801,N,,,Boomeri,Moving ,Went through camp quickly,BA,Researcher,MF,AA
+Dingo,1,22-02-2023,,,UNK,UNK,Y,-32.661773,152.179671,Golf course HN,Standing,?,Joe Gorta,CS,,
+Dingo,1,24-02-2023,,,UNK,UNK,Y,-32.669557,152.165141,Fishing CO-OP tea gardens,Walking through,?,Joe Gorta,CS,,
+Dingo,1,28-02-2023,12:00,12:05,UNK,UNK,Y,-32.668862,152.179662,Bush block just up from shops ,Standing,?,Joe Gorta,CS,F,
+Dingo,1,2-03-2023,13:00,13:05,UNK,UNK,Y,,,Lighthouse beach,Walking,?,Joe Gorta,CS,?,S
+Dingo,1,3-03-2023,13:56,14:00,JB,UOM2008,Y,-32.674475,152.18502,Bennets Beach Surf club,Walking,?,Joe Gorta,CS,M,A
+Dingo,1,14-03-2023,16:50,16:55,SL,SLF2203,Y,-32.54954,152.30772,Banksia Green,Resting,,NJ/BP,Researcher,F,S
+Dingo,2,14-03-2023,20:00,20:02,MB,UOM2001 UOF1801,N,-32.502888,152.305424,Bombah point camp,Walking,Bombah RLU,NJ/BP,Researcher,MF,AA
+Dingo,2,22-04-2023,12:30,12:40,SL,SLF2204 SLM2201,Y,-32.6088,152.232347,SL camp (F) and SL dune (M).,Walkng and resting,Watched with AJ and LJ,NJ/LJ/AJ,Researcher,MF,SS
+Dingo,1,15-03-2023,20:30,20:34,UNK,UNK,Y,-32.66695,152.176917,"Dolphin st, HN",Walking,"Interacted with domestic dog. Dog barked at it, but dingo just trotted by unphased. Dog was offleash in yard after dark.",NJ,Researcher,M,U
+Dingo,2,26-04-2023,12:04,12:08,SL,SLF2204 SLM2201,Y,-32.621333,152.212436,MBR,Hunting ,Hunting/foraging along verge,NJ,Researcher,MF,SS
+Dingo,1,27-04-2023,12:14,12:19,SL,SLM2201,Y,-32.60836,152.236471,SL dunes,Moving,"Sniffing about in dunes, investiagting dingo tracks",NJ,Researcher,M,S
+Dingo,1,16-03-2023,8:10,8:30,SL,SLF2204,Y,-32.6178,52.21767,,Hunting,Hunting and catching antechinus in roadside verge,NJ,Researcher,F,S
+Dingo,1,29-04-2023,9:20,13:30,WT,WTF2204,Y,-32.64078,152.18047,Myall River camp,Trapped,Trapped and collared,NJ etc,Researcher,F,S
+Dingo,2,27-04-2023,12:46,13:05,JB,UOM2008 UOF2101,Y,-32.67856,152.15867,Running through town from WW to JB CP,Moving,,NJ,Researcher,MF,AA
+Dingo,2,28-04-2023,14:38,14:45,JB,UOM2008 UOF2101,Y,-32.66824,152.17868,Golf course and into town along MBR,Moving,Tandem marking RLU along golf course. Clearly paired.,NJ,Researcher,MF,AA
+Dingo,1,13-03-2023,11:00,11:05,WT,WTF2102,Y,-32.63973,152.179714,Myall River camp,Moving,Around camp. Photos from BP whatsapp,BP,Researcher,F,A
+Dingo,1,13-03-2023,,,SL,SLF2204,Y,-32.54356,152.30978,Mungo bins,Scavening,Eating rubbish,BP,Researcher,F,S
+Dingo,1,27-04-2023,18:05,18:10,WT,WTF2204,Y,-32.64052,152.179724,Myall River camp,Moving/foraging,,NJ,Researcher,F,S
+Dingo,1,27-04-2023,14:20,14:25,SL,SLF2203,Y,-32.60802,152.232308,SL camp,Moving,,NJ,Researcher,F,S
+Dingo,1,28-04-2023,12:57,,SL,SLF2204,Y,-32.60802,152.232308,SL camp,Resting,,NJ,Researcher,F,S
+Dingo,1,1-05-2023,11:40,11:43,SL,SLF2204,Y,-32.544078,152.310277,Beach access,Walking,,NJ,Researcher,F,S
+Dingo,1,28-04-2023,15:10,15:17,SL,SLF2203,Y,,,,Walking,MBR,NJ,Researcher,F,S
+Dingo,2,16-03-2023,14:20,14:50,JB,UOM2008 UOF2101,Y,-32.6726,152.177506,Tandem marking in park,Marking,Video- andy downloaded. He has wound on rump,,Researcher,,
+Dingo,1,16-03-2023,15:10,15:17,SL,SLF2203,Y,-32.54198,152.310466,Mungo Brush camp,Resting,,NJ,Researcher,F,S
+Dingo,1,16-03-2023,10:00,10:15,JB,UOF2101,Y,-32.674744,152.173819,"Running through HN- seen behind retirement village mostly. From Cafe/bakery, down Moola, to mangroves",Moving,Has open cuts/grazes on face,NJ,Researcher,F,A
+Dingo,2,17-03-2023,18:25,18:32,UNK,Unknown Unknown,Y,-32.661638,152.180137,Golf course,Moving,Male + female. Need help ID'ing from Brendan,NJ,Researcher,MF,AA
+Dingo,1,17-03-2023,13:49,13:55,SL,SLF2204,Y,-32.543323,152.310021,MB bins,Resting,,NJ/BP,Researcher,F,S
+Dingo,1,17-03-2023,17:25,17:30,,SLM2201,Y,-32.541945,152.310424,Onyx - MB camp,Resting,Comfortable in presence of campers,NJ,Researcher,M,S
+Dingo,1,18-03-2023,9:05,9:12,JB,UOM2008,Y,-32.678917,152.165734,Walking along the shoreline,Moving,Andy,NJ,Researcher,M,A
+Dingo,1,18-03-2023,13:00,13:10,SL,SLF2203,Y,,,MBR,Moving,,NJ/BP,Researcher,F,S
+Dingo,1,17-03-2023,13:00,13:10,JB,UOM2008,Y,-32.670839,152.177629,Walking down middle of road,Walking,Stopping traffic!,NJ/BP,Researcher,M,A
+Dingo,2,17-03-2023,16:05:00,16:10,SL,SLF2203 SLM2201,Y,-32.541945,152.310424,MB camp,Resting,KLying around close to campers.,NJ,Researcher,MF,SS
+Dingo,1,18-03-2023,10:20,10:25,SL,SLF2203,Y,-32.54569,152.308881,MBR,Moving,,NJ/BP,Researcher,F,S
+Dingo,1,17-03-2023,7:25,7:30,SL,SLF2204,Y,-32.54945,152.30772,Banksia Green,Resting,,NJ,Researcher,F,S
+Dingo,1,28-04-2023,21:55,21:55,WT,UOM1707,N,-32.643595,152.187089,200m s MRcamp,Moving,Whoppa boy,NJ/JV,Researcher,M,A
+Dingo,1,28-04-2023,22:15,22:15,JB,UOF2101,N,-32.661567,152.179665,heading SW,Moving,,NJ/JV,Researcher,F,A
+Dingo,2,28-04-2023,22:20,22:23,WT,Unknown Unknown,N,-32.659848,152.183411,Disturbed running along to and close to trap,Moving,,NJ/JV,Researcher,UU,UU
+Dingo,1,30-04-2023,12:00,12:10,SL,SLF2204,Y,-32.548954,152.30687,Bansksia green area,Moving,,NJ/JV,Researcher,F,S
+Dingo,3,27-04-2021,22:20,23:00,MB,UOF2003 UOF1801 UOM2001,Y,-32.509,152.318686,Boomeri,Raiding,"BP has images .raiding bins, chasing each other. Bombah chased off UOF2003",NJ/BP,Researcher,FMF,ASS
+Dingo,1,30-05-2021,6:59,6:59,UNK,Unknown,N,-32.657576,152.181028,Running 200m N SW,Moving,"Black face, ginger/red",BA/NJ,Researcher,U,U
+Dingo,1,28-04-2021,0:17,0:17,UNK,Unknown,N,-32.516396,152.322919,,Moving,,NJ/BP,Researcher,U,U
+Dingo,1,17-06-2023,,,SL,SLF2204,Y,,,BR- found by NPWS,Dead,Run over and put on side of road,NPWS,Researcher,F,S
+Dingo,1,8-03-2023,17:33,17:36,SL,SLF2203,Y,-32.609974,152.228362,On road just beyond SL,Walking and hunting,,NJ/BP,Researcher,F,A
+Quoll,1,8-03-2023,17:06,17:07,,Unknown,Y,-32.4865,152.347683,On Mining rd,Walking,,NJ/BP,Researcher,M,A
+Dingo,3,8-03-2024,17:44,17:50,WT,WTU2301 WTU2302 WTU2303,Y,-32.640369,152.186251,On road into MRC. ,Running,"Disturbed by car,. Newly emerged from den? MRC subsequently say there are 5",NJ/BP,Researcher,UUU,PPP
+Dingo,1,8-03-2023,9:08,9:15,WT,WTF2204,N,-32.640234,152.186628,Bushes near MRC drive,Unknown,Not pushed in to see as possibility at den. Collar downloaded.,NJ/BP,Researcher,F,A
+Dingo,6,8-03-2024,10:48,11:28,SL,SLF2202 SLM2301 SLM2302 SLM2303 SLF1501 UOM2002,Y,-32.60783,152.23231,SL campsite,Resting,"Downloaded Socks collar. Red dog, Socks and SLM2301 resting in open at campsite; others more cautious around people and spent more time in the bushes surrounding the camp. ",AD/OM,Researcher,MMMMFF,AAASSS
+Dingo,4,7-03-2024,12:52,14:00,SL,SLF1501 UOM2002 SLM2301 SLF2202,Y,-32.60791,152.23247,SL campsite,Resting,"Socks collar triple beeping (low battery), confirmed sighting of her by NJ. SLF2202 nipples up.",NJ/BP/AD/OM,Researcher,MMFF,AAAS
+Dingo,1,7-03-2024,17:05,17:16,MB,UOF1801,Y,-32.526725,152.322897,Well's campsite,Moving,Attempted to steal chips from small child but BP intervened. Very mobile and cheeky.,NJ/BP/AD/OM,Researcher,F,A
+Dingo,2,8-03-2024,11:36,12:06,MB,UOF1801 UOM2001,Y,-32.54362,152.31095,Mungo Brush campsite and main road,Moving,"Both came together briefly before splitting up again around the campsite, which was very busy.",AD/OM,Researcher,FM,AA
+Dingo,1,3-04-2024,0:48,0:58,JB,UOM2004,Y,-32.678468,152.177921,Jimmy's Beach caravan park,Moving,Sighted <100m from cage trap but no luck that night.,AD/DG,Researcher,M,A
+Dingo,3,5-05-2024,10:04,10:18,SL,UOM2002 SLF1501 SLF2202,Y,-32.60785,152.23245,SL camp site toilets,Resting,SLF2202 limp hind right leg. No apparent injury.,AD/AJ,Researcher,MFF,AAA
+Dingo,2,7-05-2024,13:38,13:44,MB,UOF1801 UOM2001,Y,-32.543977,152.306191,SW side of MB camp underneath toilets,Resting,,AD/AJ,Researcher,FM,AA
+Dingo,2,7-05-2024,14:04,14:40,SL,SLF1501 SLM2301,Y,-32.608584,152.232168,Both resting just up on dunes next to track coming from camp site.,Resting,,AD/AJ,Researcher,FM,AS
+Dingo,2,8-05-2024,0:16,0:20,SL,UOM2002 SLM2301,Y,-32.568814,152.294577,"Moving north, not far in front of Socks (separate sighting)",Moving,,AD/EH,Researcher,MM,AS
+Dingo,1,8-05-2024,0:23,0:25,SL,SLF1501 ,N,-32.579923,152.286894,"Moving north, following Red Dog and SLM2301",Moving,,AD/EH,Researcher,F,A
+Dingo,1,8-05-2024,13:36,13:45,WT,WTF2203,Y,-32.6473,152.18518,Along road between Myall river camp and shitworks. GPS is only an estimate.,Moving,,AD/NJ/AJ/EH,Researcher,F,A
+Dingo,1,9-05-2024,19:11,19:16,MB,UOF1801,Y,-32.54453,152.30992,MB campsite,Moving,Entered camp along road towards bins and cage trap but quickly turned around and headed NE into the camp.,AD/CR,Researcher,F,
+Dingo,1,10-05-2024,11:01,11:02,MB,UOF1801,N,-32.558161,152.301709,Main road by hole in the wall,Moving,Moving north,AD/BP/CR,Researcher,F,
+Dingo,1,10-05-2024,7:41,10:45,SL,UOM2002,Y,-32.628935,152.203454,Caught in leg trap at bottom of Piper's creek road behind green NP sign,Darted,"Collared. No apparent injury on trapped leg, but broke a few teeth trying to free himself before darting.",NJ/MCW/BP/AD/AJ/EH/CR/YA,Researcher,M,A
+Dingo,2,10-05-2024,8:00,8:03,SL,SLF1501 SLM2301,Y,-32.62903,152.20395,Moved past us darting Red Dog,Moving,,NJ/MCW/BP/AD/AJ/EH/CR/YA,Researcher,FM,AS
+Dingo,1,10-05-2024,9:43,9:46,SL,SLM2301,Y,-32.62903,152.20395,Moved past us darting Red Dog,Moving,,NJ/MCW/BP/AD/AJ/EH/CR/YA,Researcher,M,S
+Dingo,2,25-06-2024,11:00,11:01,WT,SLM2303 WTF2204,N,-32.64129,152.18845,"Myall river camp, near entrance. ",Moving,"Visual of SLM2303, not of WTF2204. But she was confirmed there by Jake and we downloaded her collar GPS data. VHF pinger on collar either very weak or not working. Could be battery related as no GPS data over last few weeks",AD/DG,Researcher,MF,SA
+Dingo,2,25-06-2024,13:25,13:41,SL,UOM2002 SLF1501,Y,-32.6278,152.20521,Piper's creek road - both emerged from bushes by road,Moving,"Socks had very large fish and very pregnant. Red dog moved away from her to mark, drink and eventually headed southward along the beach. Red Dog howling when arrived at beach",AD/DG,Researcher,MF,AA
+Dingo,2,25-06-2024,13:46,14:00,SL,SLF1501 SLM2302,Y,-32.628782,152.204304,Piper's creek road intersection with main road before heading down PC trail,Moving,Both howling. Only lasted 10-15s before they moved off. SLM2302 urine marking with Socks overmarking,AD/DG,Researcher,FM,AS
+Dingo,1,25-06-2024,16:15,16:20,SL,SLF2202,Y,-32.619085,152.215572,Along road halfway between SL camp and Piper's creek trail,Moving,Pregnant. Big scar on face. Approached vehicle and appeared to be waiting for food. Received reports she was frequently being fed along this road.,AD/DG,Researcher,F,A
+Dingo,1,24-07-2024,12:58,13:08,JB,JBF2301,Y,-32.6803,152.14111,Running along beach on corrie island,Moving,Lone young female observed from across the water,AD,Researcher,F,S
+Dingo,2,23-07-2024,15:22,15:33,WT,WTF2204 SLM2303,Y,-32.640673,152.189224,By main road next to myall river camp,Resting,"Resting next to main road, then moved into bush.",AD/Chad Beranek,Researcher,FM,AS
+Dingo,3,24-07-2024,16:08,16:36,SL,UOM2002 SLM2302 SLF2202,Y,-32.60883,152.23241,All three on top of dunes and moving amongst bushes at the bottom near the suspected den,Moving,"Switching between resting and moving. Red dog and SLM2302 seen coming out of den area (heard puppy noises), SLF2202 came from over the dunes to the north. SLM2302 approached us closely with some playful aggression.",AD,Researcher,MMF,ASS
+Dingo,3,24-07-2024,16:40,17:05,SL,UOM2002 SLM2302 SLF2202,Y,-32.6144,152.22227,Moving along main road and then down trail to beach. Marking along the way,Moving,,AD,Researcher,MMF,ASS
