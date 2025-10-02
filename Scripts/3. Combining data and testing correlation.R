@@ -359,8 +359,6 @@ summarypairsstats23 <- groupevents23 %>%
 
 ###Now for 2022 and 2023, lets get the cameras each of these individuals was at-we'll use the number of detections as a measure of quantity, then plot. 
 
-####Reminder for tomorrow- get individuals from each camera, and make points of where they are. Could even do kdes? 
-
 
 detsindividuals2022 <- dingodoubleids2022%>%
   group_by(Trap, Individual)%>%
@@ -1184,3 +1182,4 @@ png("Figures/Supplemetary fig.png", width = 15, height = 20, res= 300, units = "
 
 suppfigures
 dev.off()
+
