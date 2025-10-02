@@ -91,9 +91,7 @@ Individualsbothmethodsbothyears <- Individualsbothmethodsbothyears %>%
   ungroup()
 
 Individualsbothmethodsbothyears$Both <- sapply(Individualsbothmethodsbothyears$Both, function(x) {
-  # Split by comma, trim whitespace, and remove duplicates
   unique_values <- unique(trimws(unlist(strsplit(x, ",\\s*"))))
-  # Collapse back into a single string
   paste(unique_values, collapse = ", ")
 })
 
@@ -104,3 +102,4 @@ Individualsbothmethodsbothyears <- Individualsbothmethodsbothyears %>%
   mutate(proportioncams = (CountPopSurvey / UniqueCount)*100)
 
 write.csv(Individualsbothmethodsbothyears, file = "Derived Data/totalsboth.csv")                       
+
