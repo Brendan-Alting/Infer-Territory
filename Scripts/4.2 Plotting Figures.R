@@ -60,9 +60,9 @@ plot22collarcore <- ggplot(corevaluescentres2022, aes(x = x, y = y, color = Coll
   theme_minimal()+
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.background = element_blank(),
-        axis.title = element_text(size = 20),   # Adjust axis title size
-        axis.text = element_text(size = 13),    # Adjust axis text size
-        axis.text.x = element_text(size = 17),  # Adjust x-axis text size
+        axis.title = element_text(size = 20),  
+        axis.text = element_text(size = 13),   
+        axis.text.x = element_text(size = 17),  
         axis.text.y = element_text(size = 17),
         legend.text = element_text(size = 17),
         legend.title = element_text(size = 20),
@@ -85,9 +85,9 @@ plot22cam <- ggplot(valuescentres2022, aes(x = x, y = y, color = D.sum.category)
   theme_minimal()+
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.background = element_blank(),
-        axis.title = element_text(size = 20),   # Adjust axis title size
-        axis.text = element_text(size = 13),    # Adjust axis text size
-        axis.text.x = element_text(size = 17),  # Adjust x-axis text size
+        axis.title = element_text(size = 20),   
+        axis.text = element_text(size = 13),    
+        axis.text.x = element_text(size = 17),  
         axis.text.y = element_text(size = 17),
         legend.text = element_text(size = 17),
         legend.title = element_text(size = 20),
@@ -110,9 +110,9 @@ plot22collar <- ggplot(valuescentres2022, aes(x = x, y = y, color = CollarPack))
   theme_minimal()+
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.background = element_blank(),
-        axis.title = element_text(size = 20),   # Adjust axis title size
-        axis.text = element_text(size = 13),    # Adjust axis text size
-        axis.text.x = element_text(size = 17),  # Adjust x-axis text size
+        axis.title = element_text(size = 20),   
+        axis.text = element_text(size = 13),
+        axis.text.x = element_text(size = 17),  
         axis.text.y = element_text(size = 17),
         legend.text = element_text(size = 17),
         legend.title = element_text(size = 20),
@@ -138,9 +138,9 @@ plot22camHR <- ggplot(valuescentres2022, aes(x = x, y = y, color = CamPack)) +
   theme_minimal()+
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.background = element_blank(),
-        axis.title = element_text(size = 20),   # Adjust axis title size
-        axis.text = element_text(size = 13),    # Adjust axis text size
-        axis.text.x = element_text(size = 17),  # Adjust x-axis text size
+        axis.title = element_text(size = 20),  
+        axis.text = element_text(size = 13),   
+        axis.text.x = element_text(size = 17),  
         axis.text.y = element_text(size = 17),
         legend.text = element_text(size = 17),
         legend.title = element_text(size = 20),
@@ -163,9 +163,9 @@ plot23collarcore <- ggplot(corevaluescentres2023, aes(x = x, y = y, color = Coll
   theme_minimal()+
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.background = element_blank(),
-        axis.title = element_text(size = 20),   # Adjust axis title size
-        axis.text = element_text(size = 13),    # Adjust axis text size
-        axis.text.x = element_text(size = 17),  # Adjust x-axis text size
+        axis.title = element_text(size = 20),  
+        axis.text = element_text(size = 13),    
+        axis.text.x = element_text(size = 17),  
         axis.text.y = element_text(size = 17),
         legend.text = element_text(size = 17),
         legend.title = element_text(size = 20),
@@ -190,9 +190,9 @@ plot23cam <- ggplot(valuescentres2023, aes(x = x, y = y, color = D.sum.category)
   theme_minimal()+
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.background = element_blank(),
-        axis.title = element_text(size = 20),   # Adjust axis title size
-        axis.text = element_text(size = 13),    # Adjust axis text size
-        axis.text.x = element_text(size = 17),  # Adjust x-axis text size
+        axis.title = element_text(size = 20),  
+        axis.text = element_text(size = 13),    
+        axis.text.x = element_text(size = 17),  
         axis.text.y = element_text(size = 17),
         legend.text = element_text(size = 17),
         legend.title = element_text(size = 20),
@@ -215,9 +215,9 @@ plot23collar <- ggplot(valuescentres2023, aes(x = x, y = y, color = CollarPack))
   theme_minimal()+
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.background = element_blank(),
-        axis.title = element_text(size = 20),   # Adjust axis title size
-        axis.text = element_text(size = 13),    # Adjust axis text size
-        axis.text.x = element_text(size = 17),  # Adjust x-axis text size
+        axis.title = element_text(size = 20),   
+        axis.text = element_text(size = 13),    
+        axis.text.x = element_text(size = 17),  
         axis.text.y = element_text(size = 17),
         legend.text = element_text(size = 17),
         legend.title = element_text(size = 20),
@@ -242,9 +242,9 @@ plot23camHR <- ggplot(valuescentres2023, aes(x = x, y = y, color = CamPack)) +
   theme_minimal()+
   theme(plot.margin = margin(1,1,1,1, "cm"),
         panel.background = element_blank(),
-        axis.title = element_text(size = 20),   # Adjust axis title size
-        axis.text = element_text(size = 13),    # Adjust axis text size
-        axis.text.x = element_text(size = 17),  # Adjust x-axis text size
+        axis.title = element_text(size = 20),   
+        axis.text = element_text(size = 13),   
+        axis.text.x = element_text(size = 17),  
         axis.text.y = element_text(size = 17),
         legend.text = element_text(size = 17),
         legend.title = element_text(size = 20),
@@ -289,5 +289,6 @@ dev.off()
 png("Figures Reanalysis/2023b.png", width = 10, height = 15, res= 300, units = "in")
 twentythreeb
 dev.off()
+
 
 
