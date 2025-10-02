@@ -1,4 +1,4 @@
-#Plot study area 1.2. 
+#Plot study area 
 library(ggplot2)
 library(cowplot)
 library(ggmap)
@@ -55,7 +55,7 @@ st_crs(bbox_polygon) <- st_crs(australia_map)
 
 australia_inset <- ggplot() +
   geom_sf(data = australia_map, fill = "lightgrey", color = "black") +
-  geom_sf(data = bbox_polygon, color = "red", lwd=1) + ##This is the square showing where you are 
+  geom_sf(data = bbox_polygon, color = "red", lwd=1) + 
   coord_sf(xlim = c(140, 154), ylim = c(-39, -28)) +
   theme_minimal() +
   theme(axis.title = element_blank(),
@@ -86,8 +86,8 @@ studyareplot <- basemapgg +
   theme(axis.text = element_text(size = 15),
         axis.title = element_text(size =19),
         panel.grid = element_blank(),
-        panel.border = element_rect(color = "red", fill = NA, size = 1), # Add red border
-        legend.position = "none") # Remove legend
+        panel.border = element_rect(color = "red", fill = NA, size = 1),
+        legend.position = "none") 
 
 habmapplot <- ggdraw()+
   draw_plot(studyareplot)+
@@ -103,3 +103,4 @@ habmapplot
 
 
 dev.off()
+
